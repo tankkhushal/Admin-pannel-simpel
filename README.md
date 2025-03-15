@@ -2,7 +2,7 @@ login page 01
 ![t1](https://github.com/user-attachments/assets/f03f37f2-6f41-4eb7-aa20-d67a3e4d7394)
 
 
-adminpage 1 
+adminpage 02 
 ![t2](https://github.com/user-attachments/assets/9d165ff5-cf94-4cbd-9c5a-d5f44a555984)
 
 profile page
